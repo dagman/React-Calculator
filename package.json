@@ -1,0 +1,33 @@
+{
+  "name": "react-calculator",
+  "version": "1.0.0",
+  "description": "Calculator app made with React and styled-components",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dagman/React-Calculator"
+  },
+  "author": "IslamIbakaev <islamibakaev@gmail.com> (https://github.com/dagman)",
+  "bugs": {
+    "url": "https://github.com/dagman/React-Calculator/issues"
+  },
+  "homepage": "https://github.com/dagman/React-Calculator",
+  "keywords": [
+    "calculator", 
+    "react calculator"
+  ],
+  "devDependencies": {
+    "react-scripts": "0.6.1"
+  },
+  "dependencies": {
+    "muicss": "0.9.4",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2",
+    "styled-components": "^1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
