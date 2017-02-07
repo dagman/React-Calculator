@@ -10,7 +10,7 @@
   "bugs": {
     "url": "https://github.com/dagman/React-Calculator/issues"
   },
-  "homepage": "https://github.com/dagman/React-Calculator",
+  "homepage": "http://react-calculator.surge.sh",
   "keywords": [
     "calculator", 
     "react calculator"
