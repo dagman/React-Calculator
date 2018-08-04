@@ -21,7 +21,7 @@
   "dependencies": {
     "muicss": "0.9.4",
     "react": "^15.3.2",
-    "react-dom": "^15.3.2",
+    "react-dom": "^16.0.1",
     "styled-components": "^1.0.0"
   },
   "scripts": {
